@@ -2,3 +2,8 @@ streamlit
 plotly
 seaborn
 matplotlib
+streamlit==1.37.0
+scipy==1.11.0
+plotly==5.23.0
+pandas==2.2.2
+# Other dependencies
